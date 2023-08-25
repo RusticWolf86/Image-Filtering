@@ -20,19 +20,19 @@ We use Python and the NumPy library to manually perform convolution. Images are 
 
 ## Files in the Repository
 
-- `project_code.py`: Contains the Python code for applying filters and saving filtered images.
+- `mk3.py`: Contains the Python code for applying filters and saving filtered images.
 - `Einstein.jpg`: Sample input image (replace with your image).
 - `filtered_images`: Directory containing the saved filtered images.
 
 ## How to Run
 
 1. Replace `Einstein.jpg` with your input image.
-2. Run `project_code.py` to apply filters and save filtered images.
+2. Run `mk3.py` to apply filters and save filtered images.
 3. Filtered images will be saved in the `filtered_images` directory.
 
 ## Conclusion
 
 This project provides a hands-on understanding of image filtering, convolution, and their practical applications. By exploring the effects of various filters, we gain insights into how images can be enhanced and manipulated. Feel free to experiment with different filters and images to further explore the world of image processing.
 
-For questions or feedback, please contact [your email address].
+For questions or feedback, please contact porus.vaid@gmail.com
 
