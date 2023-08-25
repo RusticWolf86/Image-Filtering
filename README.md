@@ -23,7 +23,7 @@ We use Python and the NumPy library to manually perform convolution. Images are 
 - `mk3.py`: Contains the Python code for applying filters and saving filtered images.
 - `Einstein.jpg`: Sample input image (replace with your image).
 - `filtered_images`: The saved filtered images.
-- `report.pdf`: A comprehensive report of the project
+- `Report.pdf`: A comprehensive report of the project
 
 ## How to Run
 
