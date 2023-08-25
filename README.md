@@ -1,4 +1,3 @@
-
 # Image Filtering and Processing Project
 
 This project explores the concepts of image filtering and processing using basic convolution techniques. The goal is to understand how different filters can enhance, modify, or extract specific features from images.
