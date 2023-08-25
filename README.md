@@ -1,4 +1,3 @@
-# Image-Filtering
 
 # Image Filtering and Processing Project
 
